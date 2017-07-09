@@ -1,0 +1,25 @@
+{
+  "name": "MyApp",
+  "authors": [
+    "mohammad-ahmadi <mohammad.ahmad1989@yahoo.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "latest",
+	"jquery": "latest",
+    "handlebars": "latest",
+	"pubsub-ma": "latest",
+    "util-ma": "latest"
+  }
+}

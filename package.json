@@ -1,0 +1,21 @@
+{
+  "name": "MyApp",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mohammad Ahmadi",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "latest",
+    "babel-preset-env": "latest",
+    "gulp": "latest",
+    "gulp-cli": "latest",
+    "gulp-livereload": "latest",
+    "gulp-shell": "^0.6.3",
+    "handlebars": "latest",
+    "htmlbilder": "latest",
+    "requirejs": "latest"
+  }
+}
