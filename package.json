@@ -16,6 +16,7 @@
     "gulp-shell": "latest",
     "handlebars": "latest",
     "htmlbilder": "latest",
-    "requirejs": "latest"
+    "requirejs": "latest",
+    "node-sass": "latest"
   }
 }
