@@ -1,3 +1,5 @@
-define({
-	ROOT: ""
+define(["./root"], (root) => {
+	return {
+		ROOT: root
+	};
 });
