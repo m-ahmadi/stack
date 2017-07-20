@@ -13,7 +13,7 @@
     "gulp": "latest",
     "gulp-cli": "latest",
     "gulp-livereload": "latest",
-    "gulp-shell": "^0.6.3",
+    "gulp-shell": "latest",
     "handlebars": "latest",
     "htmlbilder": "latest",
     "requirejs": "latest"
